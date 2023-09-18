@@ -3,9 +3,9 @@
 	height:100px;
 	width:100px;
 	background:red;
-	animation: box 1s ease-in-out 0s infinite alternate;
+	animation: pulse 1s ease-in-out 0s infinite alternate;
 }
-@keyframes box {
+@keyframes pulse {
   0% {
     transform: scale(1);
   }
